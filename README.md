@@ -4,7 +4,9 @@
 An advanced and intuitive admin dashboard for **The Wild Oasis**, designed to manage cabins, bookings, and guests. This interface empowers the admin to oversee the business with ease, with full CRUD functionality and insights built using a modern tech stack.
 
 🚀 **Live Demo:** [wild-oasis-pzz9.vercel.app](https://wild-oasis-pzz9.vercel.app/)
-
+### Testing Login Details:
+email: test@gmail.com
+pass :123123123
 ---
 
 ## 📸 Screenshots
